@@ -7,7 +7,7 @@
 //      OS_MACOS                MacOS system
 //      OS_IOS                  iPhone iOS system
 //      OS_ANDROID              android system
-//      OS_LINUX linux          system
+//      OS_LINUX                linux system
 //      OS_UNKNOWN_APPLE        undefined apple system
 //      OS_UNKNOWN              undefined system
 //--------------------------------------------------------------
