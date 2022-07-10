@@ -40,6 +40,9 @@
 #elif __linux__
     #define OS_LINUX
 
+#elif __unix__
+    #define OS_UNIX
+
 #else
     #define OS_UNKNOWN
 #endif
